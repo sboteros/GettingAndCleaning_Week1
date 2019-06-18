@@ -1,7 +1,7 @@
 # Getting and cleaning data
 # Quiz - Week 1
 # Santiago Botero Sierra
-# sbotero@cofece.mx
+# sbotero@unal.edu.co
 # Encoding: UTF-8
 # Date: 2019/06/17
 
